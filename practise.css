@@ -19,7 +19,7 @@
     width: 225px;
     position: relative;
     border-radius: 10px;
-    background-image: url("blurr.jpg");
+    background-image: url("iter_building.jpg");
     background-size: 225px 375px;
     background-repeat: no-repeat;
 }
@@ -51,7 +51,7 @@
     top: 210px;
     text-align: center;
     left: 60px;
-    color: palevioletred;
+    color: black;
     font-size: 16px;
 }
 
@@ -59,9 +59,9 @@
     position: absolute;
     top: 280px;
     text-transform: capitalize;
-    color: papayawhip;
-    font-size: 13px;
+    color: black;
+    font-size: 15px;
     text-emphasis: spacing;
-    left: 30px;
-    margin-left: 5px;
+    left: 18px;
+    margin-left: 2px;
 }
